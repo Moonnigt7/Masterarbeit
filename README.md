@@ -6,4 +6,5 @@ Warum hast du gescannt? War es Neugier, ein interessantes Design oder vielleicht
 
 👉 Nimm dir 2 Minuten Zeit und mach mit! Dein Feedback zählt und ist natürlich anonym.
 
-https://forms.gle/1TmB5khjTkcWhyhy5
+
+[Jetz an der Umfrage teilnehmen](https://forms.gle/1TmB5khjTkcWhyhy5)
