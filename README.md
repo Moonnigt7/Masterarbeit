@@ -11,5 +11,7 @@ Warum hast du ihn gescannt? Egal, was dich bewegt hat – ich bin neugierig dara
 
 Du hast Fragen? Melde dich gerne zu allen Fragen rund um das Thema unter katharina.weiss@mail.fernfh.ac.at
 
+Vielen Dank für deine Unterstützung!
+
 
 
