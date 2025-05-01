@@ -6,7 +6,7 @@ Egal, was dich bewegt hat den QR-Code zu scannen – ich bin neugierig darauf! M
 
 👉 Nimm dir 2 Minuten Zeit und mach mit! 
 
-[Jetzt an der Umfrage teilnehmen](https://docs.google.com/forms/d/e/1FAIpQLSezjGXqpQjAa5m_h-Y9gSSFb8z7PXHF_A2ABvjpUkXWD1x1Bw/viewform?usp=dialog)
+[Jetzt an der Umfrage teilnehmen](https://docs.google.com/forms/d/e/1FAIpQLSfEiHQfVURiroVBkUF-ivA_Wp_oLkAAGUYxKAzemYdLl32wmQ/viewform?usp=dialog)
 Dein Feedback zählt und ist natürlich anonym. Deine Antworten werden statistisch ausgewertet, außerdem werden die Anzahl an Aufrufen, ob du ein iOS oder Android Gerät benutz hats und der Zeitraum der Aufrufe statistisch ausgewertet. Personenbezogene Daten, die Rückschlüsse auf dich als Person geben würden, wie Namen, Geräte-ID, genauer Standort werden NICHT erhoben. 
 
 
