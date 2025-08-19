@@ -14,7 +14,7 @@ Du hast Fragen? Melde dich gerne zu allen Fragen rund um das Thema unter kathari
 
 Vielen Dank für deine Unterstützung!
 
-#Datenschutzhinweise zur Teilnahme an der Studie
+## Datenschutzhinweise zur Teilnahme an der Studie
 
 Im Rahmen meiner Masterarbeit an der FernFH – Ferdinand Porsche Fernfachhochschule untersuche ich, wie Menschen QR-Codes im öffentlichen Raum nutzen.
 Mit dem Scannen des QR-Codes willigen Sie in folgende Datenverarbeitung ein:
